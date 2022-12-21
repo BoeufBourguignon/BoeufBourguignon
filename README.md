@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BoeufBourguignon formerly known as Thibaud
+- 👋 Hi, I’m @BoeufBourguignon, also known as Thibaud
 - 👀 I’m interested in programing, playing video games, watching movies
 - 🌱 I’m currently learning @ UTBM, France, to be an IT engineer
 - 💞️ I’m looking to collaborate on ...
