@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @BoeufBourguignon, also known as Thibaud
-- 👀 I’m interested in programing, playing video games, watching movies
-- 🌱 I’m currently learning @ UTBM, France, to be an IT engineer
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : Mail : thibaud.leclere@gmail.com, Twitter : @BoeufBourguign
-
-<!---
-BoeufBourguignon/BoeufBourguignon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I am @BoeufBourguignon. My name is Thibaud, I'm a 24 year-old programmer, with a 2-year technical degree.
+- 👀 I have many interests. Most of them are related to IT, such as programming, playing video games or watching films. I'm also fond of astronomy.
+- 🌱 I studied in Montpellier, France, at the Lycée Jean Mermoz where I passed my 2-year technical degree called BTS SIO option SLAM.
+- 📫 All my contacts are gathered here : https://thibaudleclere.fr/
